@@ -376,6 +376,10 @@ footer div {
     margin: 24px 34px;
 }
 
+.social-media li {
+    cursor: pointer;
+}
+
 .ft-logo {
     margin: 24px;
     align-self: center;
