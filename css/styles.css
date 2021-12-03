@@ -616,6 +616,10 @@ footer div {
         min-width: 154px;
     }
 
+    #ft-subscription-email::placeholder {
+        color: var(--bright-red);
+    }
+
     .ft-copyright {
         order: 5;
         width: 28%;
